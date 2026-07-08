@@ -2,11 +2,11 @@
 
 ## ER Diagram
 
-![ER Diagram](mage/ERD.png)
+![ER Diagram](image/ERD.png)
 
 ## Relational Schema
 
-![Schema](mage/Schema.png)
+![Schema](image/Schema.png)
 
 This project is a SQL-based database system developed for managing city complaints. It allows administrators to register citizen complaints, assign officers and departments, generate work orders, and track complaint resolution efficiently.
 
